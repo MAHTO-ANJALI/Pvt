@@ -16,7 +16,7 @@ googlesearch-python
 heroku3
 httpx[http2]==0.27.2
 img2pdf
-kurigram~=2.2.5
+kurigram~=2.2.6
 lexica-api
 motor
 nekosbest
@@ -25,7 +25,7 @@ opencv-python
 pillow==11.2.1
 psutil
 ntgcalls
-py-tgcalls==2.2.2
+py-tgcalls==2.2.3
 pycryptodome
 pydub
 pyfiglet
